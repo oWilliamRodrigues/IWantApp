@@ -1,8 +1,16 @@
 # IWantApp
 
-Curso ensinando do básico ao avançado em .NET 6 na Udemy, utilizando Dapper, Entity Framework, Identity,
-no qual criamos uma API em C#, voltada para o gerenciamento de pedidos,
-produtos e usuários. Durante o curso, foram criados atributos para clientes,
-domínio, endpoints e infraestrutura.
-Foi ensinado sobre arquitetura bem definida e utilização das melhores práticas de desenvolvimento,
-garantindo alta performance, escalabilidade e segurança.
+Projeto desenvolvido durante o curso **“.NET 6 Web API do Zero ao Avançado”** da Udemy.
+
+A aplicação tem como objetivo a criação de uma **API RESTful em C# utilizando .NET 6**, voltada ao **gerenciamento de pedidos, produtos e usuários**.  
+Durante o desenvolvimento, foram abordados temas essenciais para construção de aplicações robustas e escaláveis, incluindo:
+
+- Arquitetura em camadas (Domínio, Aplicação, Infraestrutura e API)
+- **Entity Framework Core** e **Dapper** para acesso a dados
+- **Autenticação e Autorização com ASP.NET Identity**
+- **Injeção de Dependência (DI)** e boas práticas de organização de código
+- **Validações, DTOs e Mapeamentos**
+- **Tratamento de erros, logging e versionamento da API**
+- Princípios de **Clean Code** e **SOLID**
+
+O resultado é uma aplicação bem estruturada, com foco em **performance, escalabilidade e segurança**.
